@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
-   <img height="170em" src="https://www.canva.com/design/DAEwrEFTKq8/HBv7qyykXlEkCjGn_d_7ZQ/edit#"/>
-</div>
+
+ ![Data-Gif](https://user-images.githubusercontent.com/73251750/143319119-7bfccb5e-ce4e-470f-825f-1be0e018d428.gif)
 
 ## Olá eu sou o Rafael Fortes, estudante da área de tecnologia com foco em Data Science !
 <div align="center">
@@ -30,7 +29,6 @@ Here are some ideas to get you started:
   ||<img align="center" alt="Rafa-Postgre" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   ||<img align="center" alt="Rafa-Python" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   ||<img align="center" alt="Rafa-R" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-  ||<img align="center" alt="Rafa-PBI" height="60" width="80" src="https://e7.pngegg.com/pngimages/327/384/png-clipart-power-bi-business-intelligence-microsoft-azure-microsoft-dynamics-cloud-computing-cloud-computing-angle-text.png" />
   
  <!-- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 -->
