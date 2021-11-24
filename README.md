@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
  ![Data-Gif](https://user-images.githubusercontent.com/73251750/143319119-7bfccb5e-ce4e-470f-825f-1be0e018d428.gif)
 
-## Olá eu sou o Rafael Fortes, estudante da área de tecnologia com foco em Data Science !
+## Olá eu sou o Rafael Fortes, estudante da área de tecnologia com foco em Data Science
 <div align="center">
   <a href="https://github.com/rafael-fortes512">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafael-fortes512&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
