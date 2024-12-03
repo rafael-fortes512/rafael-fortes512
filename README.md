@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Olá eu sou o Rafael Fortes, estudante da área de tecnologia com foco em Data Science
+## Olá eu sou o Rafael Fortes, estudante da área de tecnologia
 <div align="center">
   <a href="https://github.com/rafael-fortes512">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafael-fortes512&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
